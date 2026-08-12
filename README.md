@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1929-concatenation-of-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2395-find-subarrays-with-equal-sum) |
