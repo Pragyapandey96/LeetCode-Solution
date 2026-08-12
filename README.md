@@ -16,12 +16,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2465-number-of-distinct-averages) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
