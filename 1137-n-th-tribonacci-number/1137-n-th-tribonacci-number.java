@@ -8,13 +8,13 @@ class Solution {
         } else if(n==1 || n==2){
             return 1;
         } else {
-            for(int i=2; i<n; i++){
+            for(int i=0; i<n; i++){
                 int d = a + b + c;
                 a = b;
                 b = c; 
                 c = d;
             }
         }
-        return c;
+        return a;
     }
 }
