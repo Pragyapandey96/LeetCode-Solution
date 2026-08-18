@@ -28,6 +28,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [1137-n-th-tribonacci-number](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
