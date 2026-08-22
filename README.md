@@ -32,6 +32,7 @@
 | [0189-rotate-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [1137-n-th-tribonacci-number](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1518-water-bottles) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
