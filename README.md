@@ -32,6 +32,7 @@
 | [0189-rotate-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [1137-n-th-tribonacci-number](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1518-water-bottles) |
+| [1927-sum-game](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+| [1927-sum-game](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,4 +88,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
