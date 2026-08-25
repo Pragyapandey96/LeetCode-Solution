@@ -17,6 +17,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [2395-find-subarrays-with-equal-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2465-number-of-distinct-averages) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
