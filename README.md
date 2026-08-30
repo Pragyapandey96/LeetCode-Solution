@@ -13,6 +13,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2465-number-of-distinct-averages) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
 |  |
 | ------- |
