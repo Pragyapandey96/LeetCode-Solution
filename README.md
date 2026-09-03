@@ -22,6 +22,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [1927-sum-game](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
