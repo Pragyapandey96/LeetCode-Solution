@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+| [0115-distinct-subsequences](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
@@ -90,6 +91,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [1137-n-th-tribonacci-number](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 ## Memoization
