@@ -136,4 +136,16 @@
 | [0584-find-customer-referee](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
