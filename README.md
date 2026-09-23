@@ -12,6 +12,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1929-concatenation-of-array) |
@@ -56,6 +57,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -70,6 +72,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
