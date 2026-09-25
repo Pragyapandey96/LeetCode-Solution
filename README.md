@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -91,6 +92,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1872-stone-game-viii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
