@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
