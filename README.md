@@ -53,6 +53,7 @@
 | [1872-stone-game-viii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1927-sum-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -176,6 +177,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
