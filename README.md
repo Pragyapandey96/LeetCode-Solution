@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0190-reverse-bits) |
 ## Quicksort
 |  |
 | ------- |
@@ -190,4 +191,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0319-bulb-switcher) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
