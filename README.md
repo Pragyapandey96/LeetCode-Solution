@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0319-bulb-switcher) |
 | [1137-n-th-tribonacci-number](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
@@ -200,5 +202,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
