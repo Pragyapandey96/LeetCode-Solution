@@ -23,6 +23,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -64,6 +65,7 @@
 | [0319-bulb-switcher](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0319-bulb-switcher) |
 | [0523-continuous-subarray-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1518-water-bottles) |
 | [1872-stone-game-viii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1927-sum-game) |
