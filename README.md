@@ -39,6 +39,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
@@ -77,6 +78,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
