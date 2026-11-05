@@ -23,6 +23,7 @@
 | [0485-max-consecutive-ones](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0941-valid-mountain-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1089-duplicate-zeros) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
