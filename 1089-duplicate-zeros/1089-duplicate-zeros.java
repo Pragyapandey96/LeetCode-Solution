@@ -1,33 +1,31 @@
 class Solution {
     public void duplicateZeros(int[] arr) {
-        int n = arr.length;
-        int[] dest = new int[n];
+        int possiblezeroDups = 0;
+        int lastIdx = arr.length - 1;
 
-        int s = 0; 
-        int d = 0;
-
-        while(s<n){
-            if(arr[s] == 0){
-                if(d<n){
-                    dest[d] = 0;
+        for(int i=0; i<= lastIdx - possiblezeroDups; i++){
+            if(arr[i] == 0){
+                // edge case 
+                if(i == lastIdx - possiblezeroDups){
+                    arr[lastIdx] = 0;
+                    lastIdx -= 1;
+                    break;
                 }
-
-                d += 1;
-                if(d<n){
-                 dest[d] = 0;
-                }
-            }  
-            else {
-                    if(d<n){
-                        dest[d] = arr[s];
-                    }
-                }
-
-                s += 1;
-                d += 1;
+                possiblezeroDups++;
+            }
         }
-        for(int i = 0; i<n; i++){
-            arr[i] = dest[i];
+
+        int newlastIdx = lastIdx - possiblezeroDups;
+
+        for(int i=newlastIdx; i>=0; i--){
+            if(arr[i] == 0){
+                arr[i + possiblezeroDups] = 0;
+                possiblezeroDups--;
+                arr[i + possiblezeroDups] = 0;
+            } 
+            else{
+                arr[i+possiblezeroDups] = arr[i];
+            }
         }
     }
 }
