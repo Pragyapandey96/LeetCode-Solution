@@ -26,6 +26,7 @@
 | [0941-valid-mountain-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1089-duplicate-zeros) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
