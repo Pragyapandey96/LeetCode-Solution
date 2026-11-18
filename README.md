@@ -12,6 +12,7 @@
 | [0036-valid-sudoku](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [1518-water-bottles](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -248,6 +250,7 @@
 | [0036-valid-sudoku](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
