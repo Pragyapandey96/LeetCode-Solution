@@ -18,6 +18,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
+| [0198-house-robber](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0940-distinct-subsequences-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1872-stone-game-viii) |
