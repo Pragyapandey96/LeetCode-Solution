@@ -32,6 +32,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -244,6 +245,7 @@
 | [0048-rotate-image](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Pigeonhole Principle
 |  |
