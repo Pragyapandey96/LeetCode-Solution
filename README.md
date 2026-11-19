@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0885-spiral-matrix-iii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0885-spiral-matrix-iii) |
 | [0941-valid-mountain-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1051-height-checker) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0885-spiral-matrix-iii) |
 | [1518-water-bottles](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -254,6 +256,7 @@
 | [0054-spiral-matrix](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0885-spiral-matrix-iii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0885-spiral-matrix-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Pigeonhole Principle
