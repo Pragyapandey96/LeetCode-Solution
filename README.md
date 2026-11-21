@@ -117,6 +117,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -275,4 +276,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1051-height-checker) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
