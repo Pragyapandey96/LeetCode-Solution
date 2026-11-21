@@ -19,6 +19,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0228-summary-ranges) |
@@ -120,6 +121,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0374-guess-number-higher-or-lower) |
