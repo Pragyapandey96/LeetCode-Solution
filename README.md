@@ -85,6 +85,7 @@
 | [0189-rotate-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1137-n-th-tribonacci-number) |
@@ -128,6 +129,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
