@@ -48,6 +48,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -144,6 +145,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -291,6 +293,7 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1051-height-checker) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Interactive
 |  |
 | ------- |
