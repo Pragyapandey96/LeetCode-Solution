@@ -30,6 +30,7 @@
 | [0485-max-consecutive-ones](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0885-spiral-matrix-iii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0885-spiral-matrix-iii) |
 | [0941-valid-mountain-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0941-valid-mountain-array) |
@@ -130,6 +131,7 @@
 | [0367-valid-perfect-square](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
