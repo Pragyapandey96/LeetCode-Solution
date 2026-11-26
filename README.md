@@ -86,6 +86,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -307,4 +309,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
