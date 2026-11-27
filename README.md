@@ -31,6 +31,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -139,6 +140,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pragyapandey96/LeetCode-Solution/tree/master/1346-check-if-n-and-its-double-exist) |
